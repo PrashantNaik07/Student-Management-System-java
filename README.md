@@ -30,18 +30,10 @@ This project is developed as part of a Java internship to demonstrate core conce
 
 ---
 
-## 📁 Project Structure
+#INTERN INFO
+NAME: PRASHANTA KUMAR NAIK
+INTERNID CITS3195
 
-StudentManagementSystem/
-│
-├── Student.java
-├── StudentManagement.java
-├── FileHandler.java
-├── Main.java
-├── README.md
-└── .gitignore
-
----
 
 ## ▶️ How to Run the Program
 
@@ -55,7 +47,3 @@ javac *.java
 
 java Main
 
-
-#INTERN INFO
-NAME: PRASHANTA KUMAR NAIK
-INTERNID CITS3195
