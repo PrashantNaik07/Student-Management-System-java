@@ -30,11 +30,6 @@ This project is developed as part of a Java internship to demonstrate core conce
 
 ---
 
-#INTERN INFO
-NAME: PRASHANTA KUMAR NAIK
-INTERNID CITS3195
-
-
 ## ▶️ How to Run the Program
 
 ### 1. Open terminal in project folder
@@ -47,3 +42,7 @@ javac *.java
 
 java Main
 
+```
+## INTERN INFO
+- NAME: PRASHANTA KUMAR NAIK
+- INTERNID CITS3195
